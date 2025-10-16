@@ -1,4 +1,4 @@
-# Drug Discovery Project: Collagenase Inhibition (v1)
+# Drug Discovery Project: Collagenase Inhibition
 
 [![License](https://img.shields.io/badge/license-Custom-blue.svg)](./LICENSE)
 [![Python](https://img.shields.io/badge/Python-3.9%2B-blue.svg)](https://www.python.org/)
